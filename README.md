@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiul Islam Audi</h1>
 <h3 align="center">A passionate frontend Web developer from Bangladesh,pursuing my BSc. in CSE dept. from BRAC University.Also I'm interested to learn more abouts Robotics, software engineering, AI-ML </h3>
 
-//current project showcase: 
+ 
 <h3 align="center"> Currently working on: </h3>
 <h1 align="center">CoinPulse</h1>
 <p></p>
