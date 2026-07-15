@@ -28,6 +28,7 @@ const samiul = {
   university:  "BRAC University — BSc. in CSE",
   focus:       ["Frontend Development", "Full-Stack (MERN)", "AI/ML", "Robotics"],
   currentWork: "CoinPulse 💰 — Crypto Tracker App",
+  recentBuild: "GojoBot Arm 🤖 — ROS 2 + MoveIt 2 robotic manipulator",
   funFact:     "I once fixed a bug at 3AM and felt like the Dark Knight ⚡",
   openTo:      ["Internships", "Collaborations", "Open Source"]
 };
@@ -69,6 +70,12 @@ const samiul = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Robotics & Simulation**
+
+![ROS 2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MoveIt 2](https://img.shields.io/badge/MoveIt_2-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -83,6 +90,31 @@ const samiul = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🤖 Featured Robotics Project — GojoBot Arm
+
+An autonomous robotic manipulator built on **ROS 2 Humble** and **MoveIt 2**, featuring real-time
+3D obstacle avoidance, multi-threaded trajectory sequencing, and a statistical Monte-Carlo
+path-confidence engine.
+
+![ROS 2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat&logo=ros&logoColor=white)
+![MoveIt 2](https://img.shields.io/badge/MoveIt_2-000000?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+**Highlights:**
+- Four asynchronous ROS 2 nodes coordinating obstacle placement, scripted trajectory execution,
+  and two custom bonus services
+- `PlanConfidence` — a Monte-Carlo diagnostic service that plans a target pose $N$ times before
+  execution and reports a statistical HIGH/MEDIUM/LOW confidence rating
+- `GojoTechnique` — a choreographed signature-move showcase (*Hollow Purple* / *Domain Expansion*)
+  combining velocity-profile control with live planning-scene manipulation
+- Custom ROS 2 interfaces (`ArmStatus.msg`, `PlanConfidence.srv`, `GojoTechnique.srv`) built with
+  `ament_cmake`
+
+📁 [Repo: gojobot_arm_ws](https://github.com/samiulaudi1712/gojobot_arm_ws)
 
 ---
 
