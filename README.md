@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samiul%20Islam%20Audi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20@%20BRAC%20University&descAlignY=58&descSize=16&animation=fadeIn"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Tailwind+CSS+%E2%9C%A8;Exploring+AI%2FML+%26+Robotics+%F0%9F%A4%96;Currently+building+CoinPulse+%F0%9F%92%B0" alt="Typing SVG" />
-</a>
+<!-- Hero Banner (auto-switches with GitHub's dark/light theme) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img src="./assets/dark.svg" alt="Samiul Islam Audi — Frontend Developer | CSE @ BRAC University" width="100%">
+</picture>
 
 <br/>
 
-<!-- Profile Views + Trophy -->
+<!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=samiulaudi1712&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/samiulaudi1712?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers"/>
@@ -29,10 +28,18 @@ const samiul = {
   focus:       ["Frontend Development", "Full-Stack (MERN)", "AI/ML", "Robotics"],
   currentWork: "CoinPulse 💰 — Crypto Tracker App",
   recentBuild: "GojoBot Arm 🤖 — ROS 2 + MoveIt 2 robotic manipulator",
+  roverTeam:   "Controls & Software Team Member @ BRACU Mongol Tori 🚀 (University Mars Rover Team)",
   funFact:     "I once fixed a bug at 3AM and felt like the Dark Knight ⚡",
   openTo:      ["Internships", "Collaborations", "Open Source"]
 };
 ```
+
+---
+
+## 🚀 BRACU Mongol Tori — University Mars Rover Team
+
+**Controls & Software team member** at **BRACU Mongol Tori** 
+BRAC University's Mars Rover engineering team
 
 ---
 
