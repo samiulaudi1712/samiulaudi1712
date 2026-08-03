@@ -67,6 +67,8 @@ BRAC University's Mars Rover engineering team
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
@@ -129,6 +131,7 @@ path-confidence engine.
 
 | 🏷️ Project | 📄 Description | 🛠️ Stack | 🌐 Live | 📁 Code |
 |:---|:---|:---|:---:|:---:|
+| **💰 CoinPulse** | Crypto screener app with a built-in high-frequency terminal & dashboard — live price tracking, candlestick charts, and coin/category browsing powered by the CoinGecko API | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![CoinGecko](https://img.shields.io/badge/-CoinGecko_API-8DC647?style=flat&logo=coingecko&logoColor=white) | [🌐 Live](https://coin-pulse-qscj-5n40mri5r-samiul2304audi-8237s-projects.vercel.app/) | [📁 Repo](https://github.com/samiulaudi1712/CoinPulse) |
 | **🏠 Rinterio** | Responsive interior decoration company website | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [🌐 Live](https://samiulaudi1712.github.io/Assignment-3/) | [📁 Repo](https://github.com/samiulaudi1712/Assignment-3) |
 | **💪 Fitness Tracker** | Frontend UI for tracking health & fitness | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [🌐 Live](https://samiulaudi1712.github.io/assignment-2/) | [📁 Repo](https://github.com/samiulaudi1712/assignment-2) |
 | **🏛️ G3 Architects** | Landing page for an architecture firm | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | [🌐 Live](https://samiulaudi1712.github.io/G3-Architects/) | [📁 Repo](https://github.com/samiulaudi1712/G3-Architects) |
