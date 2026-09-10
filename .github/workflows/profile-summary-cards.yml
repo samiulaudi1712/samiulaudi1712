@@ -5,12 +5,16 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n2451141/github-profile-summary-cards-action@v13
+      - uses: vn7n2451141/github-profile-summary-cards-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
