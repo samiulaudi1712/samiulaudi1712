@@ -162,3 +162,10 @@ path-confidence engine.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=samiulaudi1712&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
