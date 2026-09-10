@@ -142,25 +142,14 @@ path-confidence engine.
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Profile Summary Cards -->
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiulaudi1712&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiulaudi1712&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
+  <img src="./profile-summary-card-output/default/1-languages.svg" width="48%" alt="Top Languages" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" alt="Most Commit Language" />
+  <br/><br/>
+  <img src="./profile-summary-card-output/default/3-stats.svg" width="48%" alt="Stats" />
+  <img src="./profile-summary-card-output/default/4-commit-per-time.svg" width="48%" alt="Commits Per Time" />
 </div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiulaudi1712&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=samiulaudi1712&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
