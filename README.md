@@ -152,11 +152,6 @@ path-confidence engine.
 </div>
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=samiulaudi1712&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 </div>
 
