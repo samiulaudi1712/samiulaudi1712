@@ -142,30 +142,52 @@ path-confidence engine.
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Profile Summary Cards -->
 <div align="center">
-  <img src="./profile-summary-card-output/default/1-languages.svg" width="48%" alt="Top Languages" />
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" alt="Most Commit Language" />
-  <br/><br/>
-  <img src="./profile-summary-card-output/default/3-stats.svg" width="48%" alt="Stats" />
-  <img src="./profile-summary-card-output/default/4-commit-per-time.svg" width="48%" alt="Commits Per Time" />
-</div>
----
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiulaudi1712&theme=github" alt="Profile Details"/>
 
 </div>
-
----
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiulaudi1712&theme=github" alt="Top Languages by Repo" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiulaudi1712&theme=github" alt="Top Languages by Commit" width="49%"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samiulaudi1712&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Samiul's GitHub Stats" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samiulaudi1712&theme=github&utcOffset=6" alt="Productive Time" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiulaudi1712&hide_border=true" alt="GitHub Streak Stats"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=samiulaudi1712&theme=github&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=samiulaudi1712&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=samiulaudi1712&theme=flat&no-frame=true&column=7&margin-w=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=120&section=footer"/>
+
+</div>
