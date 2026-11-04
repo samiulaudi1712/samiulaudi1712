@@ -26,7 +26,7 @@ const samiul = {
   location:    "Dhaka, Bangladesh 🇧🇩",
   university:  "BRAC University — BSc. in CSE",
   focus:       ["Frontend Web Development", "Full-Stack (MERN)", "AI/ML", "Robotics" , "Control Systems & Hardware"],
-  currentlyLearning: "Learning Controls & Software system of BRACU Mongol Tori Mars Rover team",
+  learning:    "Learning Controls & Software system of BRACU Mongol Tori Mars Rover team",
   recentBuild: "GojoBot Arm 🤖 — ROS 2 + MoveIt 2 robotic manipulator",
   roverTeam:   "Controls & Software Team Member @ BRACU Mongol Tori 🚀 (University Mars Rover Team)",
   funFact:     "I once fixed a bug at 3AM and felt like the Dark Knight ⚡",
