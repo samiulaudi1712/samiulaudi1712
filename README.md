@@ -149,7 +149,7 @@ path-confidence engine.
 <!--START_SECTION:stats-->
 | 📦 Public Repos | ⭐ Stars Earned | 👥 Followers | 🔀 PRs Merged | 📬 Open PRs | ⚠️ Conflicts |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **23** | **0** | **17** | **10** | **0** | **0** |
+| **23** | **0** | **16** | **10** | **0** | **0** |
 <!--END_SECTION:stats-->
 
 ### 🆕 Latest Projects
@@ -197,12 +197,12 @@ _No merge conflicts 🎯_
 ### 🐞 Open Issues
 
 <!--START_SECTION:issues-->
-- 🐞 [**BLDC research\**](https://github.com/bracu-mongoltori/MongolTori2027/issues/42) — `bracu-mongoltori/MongolTori2027` #42 · updated 1d ago
-- 🐞 [**(Training) Cytron control with RC signals using ESP-IDF and Arduino IDE**](https://github.com/bracu-mongoltori/MongolTori2027/issues/41) — `bracu-mongoltori/MongolTori2027` #41 · updated 1d ago
+- 🐞 [**BLDC research\**](https://github.com/bracu-mongoltori/MongolTori2027/issues/42) — `bracu-mongoltori/MongolTori2027` #42 · updated 2d ago
+- 🐞 [**(Training) Cytron control with RC signals using ESP-IDF and Arduino IDE**](https://github.com/bracu-mongoltori/MongolTori2027/issues/41) — `bracu-mongoltori/MongolTori2027` #41 · updated 2d ago
 <!--END_SECTION:issues-->
 
 <div align="center"><sub><!--START_SECTION:timestamp-->
-Last updated: 2026-11-05 23:00 UTC
+Last updated: 2026-11-06 13:24 UTC
 <!--END_SECTION:timestamp--></sub></div>
 
 ---
