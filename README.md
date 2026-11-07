@@ -157,7 +157,7 @@ path-confidence engine.
 <!--START_SECTION:projects-->
 | Repo | Description | Lang | ⭐ | Updated |
 |:--|:--|:-:|:-:|:-:|
-| [**mars-rover-ws**](https://github.com/samiulaudi1712/mars-rover-ws) | BRACU Mongol learning checklist by Audi for controls and software team | Python | 0 | 1mo ago |
+| [**mars-rover-ws**](https://github.com/samiulaudi1712/mars-rover-ws) | BRACU Mongol learning checklist by Audi for controls and software team | Python | 0 | 2mo ago |
 | [**CoinPulse**](https://github.com/samiulaudi1712/CoinPulse) | Crypto Screener App with a Built-In High Frequency Terminal & Dashboard | TypeScript | 0 | 3mo ago |
 | [**gojobot_arm_ws**](https://github.com/samiulaudi1712/gojobot_arm_ws) | An autonomous robotic manipulator application built on ROS 2 Humble and MoveIt 2 that features real-time 3D collision obstacle avoidance, multi-threaded trajectory sequencing, and a statistical Monte-Carlo path validation engine. | Python | 0 | 3mo ago |
 | [**dummy-repo**](https://github.com/samiulaudi1712/dummy-repo) | — | — | 0 | 8mo ago |
@@ -197,12 +197,12 @@ _No merge conflicts 🎯_
 ### 🐞 Open Issues
 
 <!--START_SECTION:issues-->
-- 🐞 [**BLDC research\**](https://github.com/bracu-mongoltori/MongolTori2027/issues/42) — `bracu-mongoltori/MongolTori2027` #42 · updated 2d ago
-- 🐞 [**(Training) Cytron control with RC signals using ESP-IDF and Arduino IDE**](https://github.com/bracu-mongoltori/MongolTori2027/issues/41) — `bracu-mongoltori/MongolTori2027` #41 · updated 2d ago
+- 🐞 [**BLDC research\**](https://github.com/bracu-mongoltori/MongolTori2027/issues/42) — `bracu-mongoltori/MongolTori2027` #42 · updated 3d ago
+- 🐞 [**(Training) Cytron control with RC signals using ESP-IDF and Arduino IDE**](https://github.com/bracu-mongoltori/MongolTori2027/issues/41) — `bracu-mongoltori/MongolTori2027` #41 · updated 3d ago
 <!--END_SECTION:issues-->
 
 <div align="center"><sub><!--START_SECTION:timestamp-->
-Last updated: 2026-11-07 03:39 UTC
+Last updated: 2026-11-07 12:03 UTC
 <!--END_SECTION:timestamp--></sub></div>
 
 ---
