@@ -159,7 +159,7 @@ path-confidence engine.
 |:--|:--|:-:|:-:|:-:|
 | [**mars-rover-ws**](https://github.com/samiulaudi1712/mars-rover-ws) | BRACU Mongol learning checklist by Audi for controls and software team | Python | 0 | 2mo ago |
 | [**CoinPulse**](https://github.com/samiulaudi1712/CoinPulse) | Crypto Screener App with a Built-In High Frequency Terminal & Dashboard | TypeScript | 0 | 3mo ago |
-| [**gojobot_arm_ws**](https://github.com/samiulaudi1712/gojobot_arm_ws) | An autonomous robotic manipulator application built on ROS 2 Humble and MoveIt 2 that features real-time 3D collision obstacle avoidance, multi-threaded trajectory sequencing, and a statistical Monte-Carlo path validation engine. | Python | 0 | 3mo ago |
+| [**gojobot_arm_ws**](https://github.com/samiulaudi1712/gojobot_arm_ws) | An autonomous robotic manipulator application built on ROS 2 Humble and MoveIt 2 that features real-time 3D collision obstacle avoidance, multi-threaded trajectory sequencing, and a statistical Monte-Carlo path validation engine. | Python | 0 | 4mo ago |
 | [**dummy-repo**](https://github.com/samiulaudi1712/dummy-repo) | — | — | 0 | 8mo ago |
 | [**BRACU-CSE-111**](https://github.com/samiulaudi1712/BRACU-CSE-111) | — | Java | 0 | 1y ago |
 | [**Assignment2**](https://github.com/samiulaudi1712/Assignment2) | — | Java | 0 | 1y ago |
@@ -174,8 +174,8 @@ _No open pull requests 🎉_
 ### 🟣 Recently Merged
 
 <!--START_SECTION:merged_prs-->
-- 🟣 [**Merge pull request #1 from samiulaudi1712/main**](https://github.com/samiulaudi1712/gojobot_arm_ws/pull/2) — `samiulaudi1712/gojobot_arm_ws` #2 · merged 3mo ago
-- 🟣 [**Docs: Add Apache-2.0 open-source LICENSE file**](https://github.com/samiulaudi1712/gojobot_arm_ws/pull/1) — `samiulaudi1712/gojobot_arm_ws` #1 · merged 3mo ago
+- 🟣 [**Merge pull request #1 from samiulaudi1712/main**](https://github.com/samiulaudi1712/gojobot_arm_ws/pull/2) — `samiulaudi1712/gojobot_arm_ws` #2 · merged 4mo ago
+- 🟣 [**Docs: Add Apache-2.0 open-source LICENSE file**](https://github.com/samiulaudi1712/gojobot_arm_ws/pull/1) — `samiulaudi1712/gojobot_arm_ws` #1 · merged 4mo ago
 - 🟣 [**implemented candlestick chart**](https://github.com/samiulaudi1712/CoinPulse/pull/6) — `samiulaudi1712/CoinPulse` #6 · merged 8mo ago
 - 🟣 [**Merge pull request #4 from samiulaudi1712/revert-3-feat/navigation**](https://github.com/samiulaudi1712/CoinPulse/pull/5) — `samiulaudi1712/CoinPulse` #5 · merged 8mo ago
 - 🟣 [**Revert "fixed some minor issues"**](https://github.com/samiulaudi1712/CoinPulse/pull/4) — `samiulaudi1712/CoinPulse` #4 · merged 8mo ago
@@ -202,7 +202,7 @@ _No merge conflicts 🎯_
 <!--END_SECTION:issues-->
 
 <div align="center"><sub><!--START_SECTION:timestamp-->
-Last updated: 2026-11-10 13:55 UTC
+Last updated: 2026-11-10 22:38 UTC
 <!--END_SECTION:timestamp--></sub></div>
 
 ---
