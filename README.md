@@ -197,12 +197,12 @@ _No merge conflicts 🎯_
 ### 🐞 Open Issues
 
 <!--START_SECTION:issues-->
-- 🐞 [**BLDC research\**](https://github.com/bracu-mongoltori/MongolTori2027/issues/42) — `bracu-mongoltori/MongolTori2027` #42 · updated 7d ago
-- 🐞 [**(Training) Cytron control with RC signals using ESP-IDF and Arduino IDE**](https://github.com/bracu-mongoltori/MongolTori2027/issues/41) — `bracu-mongoltori/MongolTori2027` #41 · updated 7d ago
+- 🐞 [**BLDC research\**](https://github.com/bracu-mongoltori/MongolTori2027/issues/42) — `bracu-mongoltori/MongolTori2027` #42 · updated 8d ago
+- 🐞 [**(Training) Cytron control with RC signals using ESP-IDF and Arduino IDE**](https://github.com/bracu-mongoltori/MongolTori2027/issues/41) — `bracu-mongoltori/MongolTori2027` #41 · updated 8d ago
 <!--END_SECTION:issues-->
 
 <div align="center"><sub><!--START_SECTION:timestamp-->
-Last updated: 2026-11-11 13:09 UTC
+Last updated: 2026-11-12 14:12 UTC
 <!--END_SECTION:timestamp--></sub></div>
 
 ---
